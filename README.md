@@ -4,6 +4,8 @@ Voice Cloner is a tool to clone human voices in a very natural and realistic way
 
 ![image](https://github.com/henszac/Voice-Cloner-Python-Windows/assets/166815874/5704cd48-a410-469d-8382-bc5d061c28c9)
 
+Download [generated cloned voice](https://github.com/henszac/Voice-Cloner-Python-Windows/blob/main/generated_cloned_voice.mp3?raw=true) example.
+
 ## Features 🚀
 
 + Very natural and realistic voices.
@@ -17,8 +19,6 @@ Voice Cloner is a tool to clone human voices in a very natural and realistic way
 + Easy to use.
 
 *Note: The more content you give to the AI, the better results it will give you. With 5 minutes of content it gives really very good results. Keep in mind that they must be clean sound samples, that is, they have good sound quality and do not contain echoes or background noise.* 
-
-Listen an example of a [generated cloned voice](https://github.com/henszac/Voice-Cloner-Python-Windows/blob/main/generated_cloned_voice.mp3?raw=true)
 
 ## Supported countries 🌍
 
