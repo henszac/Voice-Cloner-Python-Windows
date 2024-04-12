@@ -68,7 +68,7 @@ Download [generated cloned voice](https://github.com/henszac/Voice-Cloner-Python
  
 If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in Python and includes information on how to configure it and how to use and configure the pre-trained model or the API.
 
-Contact: **https://t.me/USERNAME**
+Contact: **contact@henszac.com**
 
 # DISCLAIMER 📜
 
