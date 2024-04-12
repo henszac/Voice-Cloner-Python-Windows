@@ -58,7 +58,7 @@ Download [generated cloned voice](https://github.com/henszac/Voice-Cloner-Python
 - 🇰🇪 Kenya - African Accent
 - 🇵🇰 Pakistan - Pakistani Accent
 
-## Download test the demo application 📥
+## Demo application 📥
 
 + [Download](https://github.com/henszac/Voice-Cloner-Python-Windows/releases/download/v1.0/Voice-Cloner-Python-Windows.rar) for Windows (Lastest version v1.0).
 
