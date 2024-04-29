@@ -1,6 +1,6 @@
 # Voice Cloner 🗣️
 
-Voice Cloner is a tool to clone human voices in a very natural and realistic way using artificial intelligence. The application collects voice samples and generates the audio using text to speech.
+Voice Cloner is a tool to clone human voices in a very natural and realistic way using artificial intelligence. The application collects voice samples and generates the audio using text to speech..
 
 ![image](https://github.com/henszac/Voice-Cloner-Python-Windows/assets/166815874/5704cd48-a410-469d-8382-bc5d061c28c9)
 
