@@ -62,13 +62,13 @@ Download [generated cloned voice](https://github.com/henszac/Voice-Cloner-Python
 
 + [Download](https://github.com/henszac/Voice-Cloner-Python-Windows/releases/download/v1.0/Voice-Cloner-Python-Windows.rar) for Windows (Lastest version v1.0).
 
-*Contact to contact@henszac.com to get a pincode to test the application.*
+*Contact to https://t.me/henszac or contact@henszac.com to get a pincode to test the application.*
 
  ## Buy the source code 💻
  
 If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in Python and includes information on how to configure it and how to configure the API.
 
-Contact: **contact@henszac.com**
+Contact: **https://t.me/henszac** or **contact@henszac.com**
 
 # DISCLAIMER 📜
 
